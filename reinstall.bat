@@ -2,9 +2,9 @@
 mode con cp select=437 >nul
 setlocal EnableDelayedExpansion
 
-set confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-set confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
-rem set confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
+set confhome=https://raw.githubusercontent.com/imonerookie/reinstall_remote_oobe/main
+set confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/imonerookie/reinstall_remote_oobe/main
+rem set confhome_cn=https://jihulab.com/imonerookie/reinstall_remote_oobe/-/raw/main
 
 rem 65001 代码页会乱码
 
